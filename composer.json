@@ -1,15 +1,18 @@
 {
-    "name": "watheqalshowaiter/codecourse-cli",
-    "description": "The official Codecourse CLI",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Alex Garrett-Smith",
-            "email": "alex@codecourse.com"
-        }
-    ],
-    "require": {
-        "php": "^7.1.2|^8.0|^8.1"
-    },
-    "bin": ["codecourse"]
+	"name": "watheqalshowaiter/codecourse-cli",
+	"description": "The official Codecourse CLI",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Alex Garrett-Smith",
+			"email": "alex@codecourse.com"
+		}
+	],
+	"require": {
+		"php": "^7.1.2|^8.0|^8.1"
+	},
+	"bin": [
+		"codecourse"
+	],
+	"minimum-stability": "dev"
 }
