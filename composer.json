@@ -13,5 +13,5 @@
     },
     "prefer-stable": true,
     "bin": ["codecourse"],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
