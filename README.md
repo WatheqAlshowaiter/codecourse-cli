@@ -1,4 +1,4 @@
-### The official Codecourse CLI
+### The official Codecourse CLI (with php 8 support)
 
 Access codecourse.com features directly from the command line.
 
