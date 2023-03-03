@@ -12,5 +12,6 @@
         "php": "^7.1.2|^8.0|^8.1"
     },
     "prefer-stable": true,
-    "bin": ["codecourse"]
+    "bin": ["codecourse"],
+    "minimum-stability": "dev"
 }
