@@ -2,6 +2,9 @@
 	"name": "watheqalshowaiter/codecourse-cli",
 	"description": "The official Codecourse CLI",
 	"type": "project",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
 	"authors": [
 		{
 			"name": "Alex Garrett-Smith",
@@ -13,7 +16,5 @@
 	},
 	"bin": [
 		"codecourse"
-	],
-    "minimum-stability": "stable",
-    "prefer-stable": true
+	]
 }
