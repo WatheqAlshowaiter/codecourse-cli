@@ -18,7 +18,7 @@ ___
 <h4>macOS</h4>
 
 ```
-composer global require codecourse/cli
+composer global require watheqalshowaiter/codecourse-cli
 ```
 
 Make sure you add Composer's global vendor/bin folder to your `$PATH`. You can do this by adding `PATH=$PATH:~/.composer/vendor/bin` to your `~/.bash_profile` file and run:

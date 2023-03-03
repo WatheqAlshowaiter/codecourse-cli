@@ -1,5 +1,5 @@
 {
-    "name": "codecourse/cli",
+    "name": "watheqalshowaiter/codecourse-cli",
     "description": "The official Codecourse CLI",
     "type": "project",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "php": "^7.1.2"
+        "php": "^7.1.2|^8.0|^8.1"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
